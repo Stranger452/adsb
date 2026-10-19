@@ -1,0 +1,798 @@
+2023-07-26 11:59:33,218 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 11:59:33,218 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='karit')
+2023-07-26 11:59:33,218 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 11:59:33,218 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 11:59:33,230 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:33,280 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:36,404 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:36,431 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:39,550 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:39,578 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 11:59:42,702 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 11:59:42,790 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 11:59:42,985 - __main__ - INFO - Complete
+2023-07-26 12:02:17,496 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:02:17,496 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=100, csvfile='', intermessagegap=99564, realtime=False, callsign='karit')
+2023-07-26 12:02:17,496 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:02:17,496 - __main__ - INFO - Repeating the message 100 times
+2023-07-26 12:02:17,506 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:17,534 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:20,819 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:20,849 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:23,939 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:23,965 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:26,919 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:26,946 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:29,918 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:29,946 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:33,014 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:33,045 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:36,052 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:36,083 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:39,356 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:39,388 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:42,385 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:42,416 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:45,599 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:45,635 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:48,757 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:48,796 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:52,087 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:52,123 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:55,188 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:55,230 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:58,148 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:02:58,188 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:01,204 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:01,247 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:04,220 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:04,262 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:07,255 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:07,329 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:10,333 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:10,375 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:13,423 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:13,465 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:16,477 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:16,522 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:19,427 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:19,472 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:22,485 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:22,530 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:25,466 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:25,513 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:28,471 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:28,522 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:32,086 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:32,137 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:35,824 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:35,888 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:39,507 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:39,558 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:42,615 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:42,668 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:45,681 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:45,736 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:48,720 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:48,775 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:51,802 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:51,886 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:54,803 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:54,865 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:57,804 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:03:57,861 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:00,917 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:00,975 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:04,088 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:04,146 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:07,302 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:07,361 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:10,396 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:10,456 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:13,372 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:13,435 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:16,350 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:16,413 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:19,414 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:19,477 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:22,407 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:22,470 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:25,463 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:25,529 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:28,575 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:28,644 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:31,646 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:31,716 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:34,736 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:34,809 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:37,807 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:37,875 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:41,152 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:41,223 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:44,164 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:44,235 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:47,276 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:47,350 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:50,364 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:50,442 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:53,489 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:53,568 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:56,609 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:56,689 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:59,648 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:04:59,748 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:02,795 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:02,875 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:05,855 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:05,935 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:08,924 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:09,006 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:12,086 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:12,170 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:15,308 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:15,392 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:18,410 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:18,495 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:21,500 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:21,587 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:24,621 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:24,714 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:27,835 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:27,922 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:30,964 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:31,051 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:34,095 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:34,185 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:37,916 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:38,038 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:42,654 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:42,887 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:48,315 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:48,423 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:51,603 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:51,705 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:54,836 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:54,934 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:58,448 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:05:58,657 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:02,542 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:02,738 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:06,135 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:06,251 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:09,943 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:10,071 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:13,329 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:13,432 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:16,681 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:16,789 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:19,967 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:20,071 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:23,393 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:23,524 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:26,702 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:26,910 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:30,153 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:30,260 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:33,419 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:33,528 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:36,687 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:36,803 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:39,987 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:40,097 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:43,342 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:43,451 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:46,524 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:46,637 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:49,732 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:49,845 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:52,968 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:53,080 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:56,155 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:56,266 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:59,359 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:06:59,475 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:02,834 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:02,951 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:06,134 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:06,248 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:09,591 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:09,720 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:13,643 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:13,832 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:17,169 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:17,289 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:20,431 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:20,549 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:23,685 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:23,812 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:27,139 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:27,293 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:30,509 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:30,633 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:33,741 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:33,867 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:37,214 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:37,415 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:41,102 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:41,263 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:45,020 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:45,186 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:48,904 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:49,067 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:52,464 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:52,594 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:55,778 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:55,909 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:59,320 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:07:59,463 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:02,788 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:02,940 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:06,276 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:06,408 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:09,569 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:09,726 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:13,145 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:13,283 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:16,379 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:16,518 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:20,149 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:20,294 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:23,546 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:23,721 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:26,903 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:27,048 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:30,565 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:30,713 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:34,053 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:34,197 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:37,571 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:37,764 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:41,120 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:41,298 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:44,892 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:45,055 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:48,365 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:48,515 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:51,946 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:52,099 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:55,485 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:55,646 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:58,786 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:08:58,933 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:02,383 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:02,541 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:05,861 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:06,017 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:09,366 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:09,517 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:12,798 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:12,953 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:16,178 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:16,349 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:19,886 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:20,056 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:23,365 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:23,538 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:26,921 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:27,113 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:30,628 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:30,849 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:34,335 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:34,502 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:37,995 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:38,161 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:41,471 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:41,662 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:45,262 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:45,456 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:49,258 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:49,437 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:52,761 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:52,929 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:56,371 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:09:56,600 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:00,220 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:11,443 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:10:11,443 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=5, csvfile='', intermessagegap=99564, realtime=False, callsign='karit')
+2023-07-26 12:10:11,443 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:10:11,444 - __main__ - INFO - Repeating the message 5 times
+2023-07-26 12:10:11,460 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:11,511 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:14,696 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:14,724 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:17,830 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:17,870 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:21,007 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:21,034 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:24,363 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:24,402 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:27,546 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:27,579 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:30,844 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:30,875 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:34,147 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:34,179 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:37,210 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:37,240 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:40,388 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:40,420 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:43,544 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:43,583 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:46,698 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:46,739 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:50,005 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:50,048 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:53,382 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:53,421 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:56,485 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:56,525 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:10:59,709 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:11:00,092 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:11:00,573 - __main__ - INFO - Complete
+2023-07-26 12:18:11,764 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:18:11,764 - __main__ - DEBUG - The arguments: Namespace(icao=40621, latitude=34.2, longitude=73.5, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=5, csvfile='', intermessagegap=99564, realtime=False, callsign='karit')
+2023-07-26 12:18:11,764 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:18:11,764 - __main__ - INFO - Repeating the message 5 times
+2023-07-26 12:18:11,772 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:11,800 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:14,957 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:14,985 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:18,041 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:18,071 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:21,242 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:21,269 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:24,349 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:24,376 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:40,158 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:18:40,158 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.2, longitude=73.5, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=5, csvfile='', intermessagegap=99564, realtime=False, callsign='karit')
+2023-07-26 12:18:40,159 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:18:40,159 - __main__ - INFO - Repeating the message 5 times
+2023-07-26 12:18:40,168 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:40,196 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:43,446 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:43,473 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:46,761 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:46,787 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:49,994 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:50,020 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:53,094 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:53,122 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:56,308 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:56,339 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:59,521 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:18:59,551 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:02,847 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:02,879 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:05,931 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:05,961 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:09,129 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:09,161 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:12,385 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:12,425 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:15,517 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:15,554 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:18,712 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:18,750 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:21,827 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:21,866 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:25,074 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:25,137 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:19:28,471 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:19:28,868 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:19:29,441 - __main__ - INFO - Complete
+2023-07-26 12:42:06,764 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:42:06,766 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.2, longitude=73.5, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=5, csvfile='', intermessagegap=99564, realtime=False, callsign='PK-1023')
+2023-07-26 12:42:06,766 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:42:06,766 - __main__ - INFO - Repeating the message 5 times
+2023-07-26 12:42:06,788 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:06,843 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:10,093 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:10,121 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:13,506 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:13,550 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:16,688 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:16,716 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:19,899 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:19,927 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:23,356 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:23,389 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:26,671 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:26,702 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:30,035 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:30,067 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:33,133 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:33,163 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:36,135 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:36,169 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:39,239 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:39,297 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:42,409 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:42,446 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:45,410 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:45,448 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:48,439 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:48,478 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:51,521 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:51,561 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:42:55,243 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:42:55,626 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:42:56,249 - __main__ - INFO - Complete
+2023-07-26 12:44:43,595 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:44:43,596 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.2, longitude=73.5, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='IRTAZA2')
+2023-07-26 12:44:43,596 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:44:43,596 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:44:43,607 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:43,652 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:46,583 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:46,611 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:49,448 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:49,475 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:52,565 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:52,592 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:55,481 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:55,509 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:58,361 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:44:58,394 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:45:01,405 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:45:01,565 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:45:01,730 - __main__ - INFO - Complete
+2023-07-26 12:51:25,386 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:51:25,386 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='IRTAZA2')
+2023-07-26 12:51:25,386 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:51:25,387 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:51:25,404 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:25,454 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:28,705 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:28,732 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:31,738 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:31,765 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:34,662 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:34,691 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:37,546 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:37,583 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:40,543 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:40,573 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:51:43,631 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:51:43,790 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:51:43,963 - __main__ - INFO - Complete
+2023-07-26 12:52:50,751 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:52:50,751 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='IRTAZA2')
+2023-07-26 12:52:50,752 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:52:50,752 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:52:50,763 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:50,803 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:53,866 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:53,892 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:56,878 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:56,905 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:59,913 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:52:59,940 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:03,025 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:03,054 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:06,122 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:06,175 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:09,137 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:53:09,276 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:53:09,490 - __main__ - INFO - Complete
+2023-07-26 12:53:43,116 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:53:43,117 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='irtaza2')
+2023-07-26 12:53:43,117 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:53:43,117 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:53:43,127 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:43,155 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:46,191 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:46,219 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:49,190 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:49,216 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:52,194 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:52,221 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:55,142 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:55,170 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:58,164 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:53:58,196 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:01,220 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:54:01,344 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:54:01,535 - __main__ - INFO - Complete
+2023-07-26 12:54:31,988 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:54:31,988 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='klm1230')
+2023-07-26 12:54:31,988 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:54:31,988 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:54:31,999 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:32,031 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:35,043 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:35,070 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:37,916 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:37,942 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:40,829 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:40,857 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:43,682 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:43,710 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:46,590 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:46,623 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:54:49,560 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:54:49,685 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:54:49,946 - __main__ - INFO - Complete
+2023-07-26 12:55:23,614 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:55:23,615 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='pk1234')
+2023-07-26 12:55:23,615 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:55:23,615 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:55:23,624 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:23,652 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:26,750 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:26,779 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:29,865 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:29,893 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:32,851 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:32,878 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:35,843 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:35,871 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:38,882 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:38,941 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:55:41,951 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:55:42,114 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:55:42,394 - __main__ - INFO - Complete
+2023-07-26 12:56:02,487 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:56:02,488 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='pk1234')
+2023-07-26 12:56:02,488 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:56:02,489 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:56:02,499 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:02,526 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:05,581 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:05,608 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:08,595 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:08,621 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:11,557 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:11,584 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:14,664 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:14,692 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:17,750 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:17,782 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:56:21,050 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:56:21,182 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:56:21,403 - __main__ - INFO - Complete
+2023-07-26 12:57:01,342 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 12:57:01,343 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 12:57:01,343 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 12:57:01,343 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 12:57:01,352 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:01,380 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:04,416 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:04,442 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:07,405 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:07,431 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:10,616 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:10,643 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:13,533 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:13,562 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:16,505 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:16,538 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 12:57:19,551 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 12:57:19,682 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 12:57:19,934 - __main__ - INFO - Complete
+2023-07-26 13:17:51,927 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:17:51,928 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:17:51,929 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:17:51,929 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 13:17:51,953 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:17:52,003 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:17:54,962 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:17:54,989 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:17:58,130 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:17:58,157 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:01,090 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:01,117 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:04,063 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:04,091 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:06,998 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:07,035 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:18:10,008 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:18:10,139 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:18:10,316 - __main__ - INFO - Complete
+2023-07-26 13:25:31,126 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:25:31,126 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:25:31,126 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:25:31,126 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 13:25:31,135 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:31,162 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:34,191 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:34,218 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:37,069 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:37,095 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:39,936 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:39,967 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:43,091 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:43,121 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:45,979 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:46,017 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:25:48,948 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:25:49,100 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:25:49,290 - __main__ - INFO - Complete
+2023-07-26 13:26:42,056 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:26:42,056 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:26:42,056 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:26:42,056 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 13:26:42,064 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:42,088 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:44,912 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:44,937 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:47,714 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:47,739 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:50,537 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:50,561 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:53,310 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:53,335 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:56,105 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:56,134 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:26:58,911 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:26:59,034 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:26:59,170 - __main__ - INFO - Complete
+2023-07-26 13:27:42,272 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:27:42,272 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:27:42,272 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:27:42,273 - __main__ - INFO - Repeating the message 2 times
+2023-07-26 13:27:42,280 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:42,304 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:45,076 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:45,102 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:47,822 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:47,846 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:50,604 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:50,629 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:53,348 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:53,373 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:56,127 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:56,156 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:27:58,897 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:27:59,098 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:27:59,304 - __main__ - INFO - Complete
+2023-07-26 13:30:56,508 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:30:56,509 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:30:56,509 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:30:56,509 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:30:56,524 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:30:56,577 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:00,041 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:00,086 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:03,681 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:03,737 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:07,441 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:31:07,544 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:31:07,642 - __main__ - INFO - Complete
+2023-07-26 13:31:35,856 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:31:35,857 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:31:35,858 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:31:35,858 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:31:35,874 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:35,935 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:39,359 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:39,403 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:43,305 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:43,382 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:31:48,058 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:31:48,182 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:31:48,308 - __main__ - INFO - Complete
+2023-07-26 13:34:27,110 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:34:27,112 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:34:27,113 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:34:27,113 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:34:27,127 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:27,177 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:30,579 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:30,640 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:34,327 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:34,376 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:38,264 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:34:38,362 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:34:38,478 - __main__ - INFO - Complete
+2023-07-26 13:34:51,226 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:34:51,228 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:34:51,228 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:34:51,228 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:34:51,248 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:51,327 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:55,352 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:55,413 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:59,098 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:34:59,145 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:35:03,741 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:35:03,853 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:35:03,973 - __main__ - INFO - Complete
+2023-07-26 13:44:58,258 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:44:58,259 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:44:58,259 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:44:58,259 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:44:58,274 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:44:58,327 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:45:01,961 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:45:02,006 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:45:05,473 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:45:05,520 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:45:08,812 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:45:08,909 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:45:09,001 - __main__ - INFO - Complete
+2023-07-26 13:49:47,671 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:49:47,672 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:49:47,672 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:49:47,673 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:49:47,691 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:47,746 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:50,998 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:51,043 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:54,391 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:54,442 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:49:57,800 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:49:57,892 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:49:57,991 - __main__ - INFO - Complete
+2023-07-26 13:51:17,080 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:51:17,082 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:51:17,083 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:51:17,083 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:51:55,409 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:51:55,410 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:51:55,411 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:51:55,411 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:51:55,424 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:51:55,471 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:51:58,761 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:51:58,813 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:02,456 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:54:02,458 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:54:02,458 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:54:02,458 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:54:02,473 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:02,523 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:05,747 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:05,792 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:09,219 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:09,264 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:12,921 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 13:54:13,016 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 13:54:13,125 - __main__ - INFO - Complete
+2023-07-26 13:54:26,484 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 13:54:26,485 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 13:54:26,485 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 13:54:26,485 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 13:54:26,502 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:26,555 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:29,702 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:29,744 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:33,253 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 13:54:33,295 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:50,514 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 14:00:50,515 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 14:00:50,515 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 14:00:50,515 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 14:00:50,529 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:50,581 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:53,679 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:53,724 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:56,936 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:00:56,977 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:01:00,347 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 14:01:00,531 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 14:01:00,679 - __main__ - INFO - Complete
+2023-07-26 14:08:45,547 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 14:08:45,548 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 14:08:45,549 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 14:08:45,549 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 14:08:45,562 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:45,641 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:48,973 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:49,019 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:52,484 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:52,522 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-26 14:08:55,941 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-26 14:08:56,043 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-26 14:08:56,130 - __main__ - INFO - Complete
+2023-07-26 14:10:56,446 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 14:10:56,447 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 14:10:56,448 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 14:10:56,448 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 14:15:58,947 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 14:15:58,949 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 14:15:58,949 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 14:15:58,949 - __main__ - INFO - Repeating the message 1 times
+2023-07-26 14:16:46,947 - __main__ - INFO - Starting ADSB Encoder
+2023-07-26 14:16:46,948 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-26 14:16:46,948 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-26 14:16:46,949 - __main__ - INFO - Repeating the message 1 times

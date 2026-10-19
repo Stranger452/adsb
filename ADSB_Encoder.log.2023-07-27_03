@@ -1,0 +1,371 @@
+2023-07-27 01:23:58,514 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:23:58,516 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:23:58,517 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:23:58,517 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:26:34,851 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:26:34,852 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:26:34,853 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:26:34,853 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:26:34,870 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:34,949 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:40,510 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:40,603 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:47,186 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:47,271 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:26:53,739 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:26:53,847 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:26:53,970 - __main__ - INFO - Complete
+2023-07-27 01:27:15,636 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:27:15,638 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:27:15,639 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:27:15,639 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:27:15,667 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:15,746 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:20,097 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:20,199 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:25,601 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:25,690 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:35,772 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:27:35,774 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:27:35,775 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:27:35,775 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:27:35,800 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:27:35,917 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:13,938 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:29:13,940 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:29:13,942 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:29:13,943 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:29:13,985 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:14,142 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:18,403 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:18,492 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:22,437 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:22,485 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:27,057 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:29:27,155 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:29:27,296 - __main__ - INFO - Complete
+2023-07-27 01:29:50,731 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:29:50,734 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:29:50,734 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:29:50,735 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:29:50,770 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:50,936 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:56,854 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:29:56,953 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:02,756 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:02,843 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:08,599 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:30:08,734 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:30:08,881 - __main__ - INFO - Complete
+2023-07-27 01:30:22,613 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:30:22,615 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:30:22,616 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:30:22,616 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:30:22,658 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:22,808 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:28,530 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:28,630 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:33,528 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:33,588 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:30:39,056 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:30:39,152 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:30:39,266 - __main__ - INFO - Complete
+2023-07-27 01:34:17,933 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:34:17,935 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:34:17,936 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:34:17,936 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:34:17,986 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:34:18,107 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:41:06,049 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:41:06,051 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:41:06,052 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:41:06,052 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:41:06,078 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:41:06,158 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:41:35,754 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:41:35,755 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:41:35,756 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:41:35,756 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:41:35,787 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:41:35,885 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:47:12,620 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:47:12,621 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:47:12,622 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:47:12,623 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:47:57,805 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:47:57,807 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:47:57,807 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:47:57,807 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:47:57,840 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:47:57,917 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:48:02,903 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:48:02,965 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:48:08,077 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:48:08,130 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:48:13,532 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:48:13,622 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:48:13,773 - __main__ - INFO - Complete
+2023-07-27 01:52:26,237 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:52:26,238 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:52:26,239 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:52:26,239 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:53:31,388 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 01:53:31,389 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 01:53:31,389 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 01:53:31,390 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 01:53:31,408 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:31,475 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:35,970 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:36,070 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:42,046 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:42,107 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 01:53:46,532 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 01:53:46,655 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 01:53:46,753 - __main__ - INFO - Complete
+2023-07-27 02:18:58,417 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:18:58,419 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:18:58,419 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:18:58,420 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:18:58,456 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:18:58,566 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:05,621 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:05,727 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:12,298 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:12,375 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:53,849 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:19:53,851 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:19:53,852 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:19:53,852 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:19:53,895 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:19:54,020 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:44,372 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:20:44,374 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:20:44,375 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:20:44,375 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:20:44,404 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:44,486 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:48,455 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:48,503 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:52,987 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:53,041 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:20:57,469 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:20:57,636 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:20:57,788 - __main__ - INFO - Complete
+2023-07-27 02:22:21,775 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:22:21,776 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:22:21,777 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:22:21,777 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:22:21,810 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:21,883 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:25,899 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:25,947 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:31,522 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:31,657 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:41,839 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:22:41,841 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:22:41,842 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:22:41,842 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:22:41,878 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:42,035 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:46,469 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:46,538 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:51,649 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:51,699 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:22:55,800 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:22:55,927 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:22:56,079 - __main__ - INFO - Complete
+2023-07-27 02:38:45,132 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:38:45,132 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:38:45,132 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:38:45,133 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 02:38:45,142 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:45,178 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:48,257 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:48,285 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:51,444 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:51,474 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:54,624 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:54,659 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:57,752 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:38:57,780 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:39:00,837 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:39:00,868 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:39:04,112 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:39:04,277 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:39:04,652 - __main__ - INFO - Complete
+2023-07-27 02:42:33,378 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:42:33,380 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:42:33,380 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:42:33,381 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:42:33,418 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:42:33,524 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:42:43,645 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:42:43,800 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:42:54,363 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:42:54,464 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:43:04,320 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:43:04,443 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:43:04,575 - __main__ - INFO - Complete
+2023-07-27 02:44:07,793 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:44:07,795 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:44:07,796 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:44:07,797 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 02:44:07,835 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:07,961 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:18,502 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:18,607 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:28,307 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:28,424 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:44:38,840 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:44:38,985 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:44:39,180 - __main__ - INFO - Complete
+2023-07-27 02:50:42,732 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:50:42,743 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:50:42,743 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:50:42,744 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 02:50:42,774 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:50:42,859 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:50:53,835 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:50:53,887 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:03,563 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:03,657 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:13,415 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:13,489 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:22,383 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:22,498 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:34,443 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:34,544 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:51:43,781 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 02:51:44,048 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 02:51:44,386 - __main__ - INFO - Complete
+2023-07-27 02:52:45,366 - ADSB_Encoder - INFO - Starting ADSB Encoder threadingCSV entry point
+2023-07-27 02:52:45,374 - ADSB_Encoder - DEBUG - Being called with the following CSV file: generated/allICAO-0.csv
+2023-07-27 02:52:45,376 - ADSB_Encoder - DEBUG - The arguments: Namespace(icao=7667855, latitude=12.34, longitude=56.78, altitude=9876.5, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='allICAO-0.iq8s', repeats=1, csvfile='generated/allICAO-0.csv', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:52:45,376 - ADSB_Encoder - INFO - Processing CSV file: generated/allICAO-0.csv
+2023-07-27 02:52:45,377 - ADSB_Encoder - INFO - Repeating the message 1 times
+2023-07-27 02:52:45,378 - ADSB_Encoder - DEBUG - Row from CSV: {'icao': 0, 'latitude': 12.34, 'longitude': 56.78, 'altitude': 9876.5, 'capability': 5, 'typecode': 11, 'surveillancestatus': 0, 'nicsupplementb': 0, 'time': 0, 'surface': False, 'callsign': 'cae2345'}
+2023-07-27 02:52:45,416 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:52:45,530 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:59:58,739 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 02:59:58,742 - __main__ - DEBUG - The arguments: Namespace(icao=7667855, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 02:59:58,742 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 02:59:58,743 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 02:59:58,765 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 02:59:58,835 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:07,647 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:07,715 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:17,170 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:17,239 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:26,502 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:26,578 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:35,747 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:35,818 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:44,287 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:44,416 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:00:53,543 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:00:53,731 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:00:53,988 - __main__ - INFO - Complete
+2023-07-27 03:01:56,088 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:01:56,089 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:01:56,090 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:01:56,091 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 03:01:56,117 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:01:56,212 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:04,416 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:04,491 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:12,281 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:12,354 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:20,075 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:20,139 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:28,383 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:28,446 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:36,288 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:36,378 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:02:44,226 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:02:44,516 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:02:44,768 - __main__ - INFO - Complete
+2023-07-27 03:03:45,713 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:03:45,717 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:03:45,718 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:03:45,718 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 03:04:43,314 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:04:43,316 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:04:43,317 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:04:43,318 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 03:04:43,360 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:04:43,468 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:04:53,909 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:04:54,053 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:05:04,814 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:05:04,964 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:05:14,135 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:05:14,272 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:05:14,416 - __main__ - INFO - Complete
+2023-07-27 03:08:11,223 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:08:11,223 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:08:11,224 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:08:11,224 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 03:08:11,240 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:11,294 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:19,386 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:19,438 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:26,853 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:26,913 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:34,568 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:34,659 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:42,754 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:42,815 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:50,042 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:50,119 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:08:57,182 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:08:57,365 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:08:57,639 - __main__ - INFO - Complete
+2023-07-27 03:13:06,213 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:13:06,215 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=2, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:13:06,216 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:13:06,217 - __main__ - INFO - Repeating the message 2 times
+2023-07-27 03:13:06,235 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:06,290 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:15,126 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:15,179 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:22,595 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:22,661 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:31,358 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:31,424 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:39,365 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:39,436 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:47,736 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:47,817 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:13:56,293 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:13:56,504 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:13:56,819 - __main__ - INFO - Complete
+2023-07-27 03:14:51,659 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:14:51,659 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='cae2345')
+2023-07-27 03:14:51,659 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:14:51,660 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 03:14:51,675 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:14:51,729 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:15:00,765 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:15:00,823 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:15:10,101 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:15:10,200 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:15:19,902 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:15:20,067 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:15:20,222 - __main__ - INFO - Complete
+2023-07-27 03:16:10,618 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:16:10,618 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='0xklm1023')
+2023-07-27 03:16:10,619 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:16:10,619 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 03:16:59,357 - __main__ - INFO - Starting ADSB Encoder
+2023-07-27 03:16:59,358 - __main__ - DEBUG - The arguments: Namespace(icao=4219421, latitude=34.078, longitude=73.09, altitude=45000.0, capability=5, typecode=11, surveillancestatus=0, nicsupplementb=0, time=0, surface=False, outputfilename='Samples_256K.iq8s', repeats=1, csvfile='', intermessagegap=99564, realtime=False, callsign='klm1023')
+2023-07-27 03:16:59,358 - __main__ - INFO - Processing default and command line options for a single plane
+2023-07-27 03:16:59,359 - __main__ - INFO - Repeating the message 1 times
+2023-07-27 03:16:59,387 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:16:59,474 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:17:07,690 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:17:07,755 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:17:16,436 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:17:16,489 - HackRF - DEBUG - Creating hackRF bytearray from the ppm stuff
+2023-07-27 03:17:24,432 - __main__ - INFO - Writing Samples_256K.iq8s.tmp file
+2023-07-27 03:17:24,532 - __main__ - INFO - dd for file: Samples_256K.iq8s
+2023-07-27 03:17:24,707 - __main__ - INFO - Complete
