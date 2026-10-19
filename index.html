@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+  <title>Python GUI with Electron</title>
+
+</head>
+
+<body>
+
+  <h1>Hello from Electron!</h1>
+
+  <button id="runPython">Run Python Code</button>
+
+  <div id="output"></div>
+
+ 
+
+  <script>
+
+    const { ipcRenderer } = require('electron');
+
+ 
+
+    // When the button is clicked, send a message to the main process to run the Python code
+
+    document.getElementById('runPython').addEventListener('click', () => {
+
+      ipcRenderer.send('run-python-code');
+
+    });
+
+ 
+
+    // Listen for messages from the main process
+
+    ipcRenderer.on('python-output', (event, data) => {
+
+      // Display the output from Python in the output div
+
+      document.getElementById('output').innerHTML = data;
+
+    });
+
+  </script>
+
+</body>
+
+</html>
